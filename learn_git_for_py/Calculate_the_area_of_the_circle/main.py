@@ -9,7 +9,7 @@ while True:
         continue
     print(radius,type(radius))
     break
-# 面积公式：π*r²
+# 面积公式：π*r²、
 area = pi*radius**2
 print("圆的面积约为：",area)
 
